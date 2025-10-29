@@ -1,7 +1,7 @@
 import csv
 
 neu_trans = []
-
+'''
 class Nervous_disease():
     
     def __init__(self, name, neurotransmitter, concentration):
@@ -11,7 +11,7 @@ class Nervous_disease():
 
     def patient_info(self):
         print(f"환자 이름: {self.name}, 신경 전달 물질 종류: {self.neurotransmitter}, 수치: {self.concentration}")
-
+'''
 class Patient:
    
     def __init__(self, name, neurotransmitter, concentration):
